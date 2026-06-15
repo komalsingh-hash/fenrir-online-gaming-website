@@ -1,5 +1,5 @@
 Metro: Last Departure - Rubric Table
-Number	Description
+
 1	Page contains exactly 8 sections in this order: Hero, Gameplay Features,      Interactive Metro Map, Survivor Roster, Story Teaser, Survival Mechanics, Endings Preview, CTA Footer.
 2	Hero section displays a status bar containing a pulsing dot indicator above or beside text referencing "containment breach."
 3	Hero section displays the title text "METRO: LAST DEPARTURE" with a glitch effect that activates intermittently, not continuously.
