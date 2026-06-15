@@ -1,0 +1,33 @@
+Metro: Last Departure - Rubric Table
+Number	Description
+1	Page contains exactly 8 sections in this order: Hero, Gameplay Features,      Interactive Metro Map, Survivor Roster, Story Teaser, Survival Mechanics, Endings Preview, CTA Footer.
+2	Hero section displays a status bar containing a pulsing dot indicator above or beside text referencing "containment breach."
+3	Hero section displays the title text "METRO: LAST DEPARTURE" with a glitch effect that activates intermittently, not continuously.
+4	Hero section displays the exact text "A routine metro journey becomes a fight for survival after a mysterious outbreak contaminates the transit network." directly below the title.
+5	Hero description text is rendered in a font size smaller than the title text.
+6	Hero section contains a button labeled "Board The Train" with a pulsing animation (opacity or box-shadow scale change on a loop).
+7	Hero section contains a scroll indicator element with an animation (e.g., moving arrow, animated bar, or bounce effect).
+8	Hero background contains a moving tunnel-line pattern animation using only colors from the approved palette.
+9	Gameplay Features section contains exactly 4 cards titled "Explore The Metro Network," "Survive The Outbreak," "Solve Environmental Puzzles," "Uncover The Conspiracy," in that order.
+10	Each Gameplay Features card displays a left-edge accent bar that becomes visible on hover.
+11	Each Gameplay Features card moves vertically (lift effect) on hover.
+12	Interactive Metro Map renders 4 stations connected by a single continuous visible line/path, not as disconnected markers.
+13	Metro Map stations appear in this left-to-right or start-to-end order: Central Station, Research Lab, Underground Tunnels, Final Departure Terminal.
+14	Metro Map contains a dashed-line animation that moves along the full length of the connecting path.
+15	Hovering or focusing the Central Station node triggers a green glow effect.
+16	Hovering or focusing the Research Lab node triggers a red glow effect.
+17	Hovering or focusing the Underground Tunnels node triggers a red glow effect.
+18	Hovering or focusing the Final Departure Terminal node triggers a green glow effect.
+19	Each Metro Map station displays a tooltip with lore/status text on both mouse hover and keyboard focus (tab key).
+20	Survivor Roster section contains exactly 4 flip-cards labeled Engineer, Medic, Security Guard, Hacker, in that order.
+21	Each Survivor Roster card's front face displays a class name, a class number, and a points-to-unlock value.
+22	Each Survivor Roster card flips on the Y-axis on hover or focus to reveal a back face with an ability description.
+23	Story Teaser section displays terminal-style text lines that fade in sequentially on scroll, with each line appearing after a time delay from the previous.
+24	Story Teaser lines are color-coded: normal lines in green, warning lines in red, system/dim lines in gray.
+25	Story Teaser section ends with a blinking cursor element after the final text line.
+26	Survival Mechanics section contains exactly 4 items, each with an icon, title, and description, in this order: Health System, Infection Detection, Resource Collection, Metro Exploration.
+27	Endings Preview section contains exactly 4 tiles labeled Escape Ending, Sacrifice Ending, Conspiracy Ending, Bad Ending, with title text blurred until hovered.
+28	CTA Footer contains the exact heading text "Can You Reach The Last Departure?" and exactly one button labeled "Play Now" with a pulsing animation.
+29	No interactive element (cards, map stations, buttons) on the page is missing a focus state that visually mirrors its hover state.
+30	When prefers-reduced-motion is enabled in the browser, glitch, flip, pulse, and scroll-reveal animations are disabled or static, with content remaining visible.
+
