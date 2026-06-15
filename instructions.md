@@ -110,10 +110,10 @@ Terminal/log-style text block:
 
 4-item grid/list, in this order:
 
-1. ❤️ Health System
-2. 🧪 Infection Detection
-3. 🔑 Resource Collection
-4. 🚇 Metro Exploration
+1.  Health System
+2.  Infection Detection
+3.  Resource Collection
+4.  Metro Exploration
 
 Each item: icon, short title, 1–2 line description. Subtle hover/reveal animation per item.
 
